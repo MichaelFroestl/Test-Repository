@@ -4,3 +4,4 @@ Titel, Beschreibung, Mitmachen, Kontakt, Urheberrecht, aktueller Projektstatus; 
 Default-Homepage
 aktueller Projektstatus
 Hinweis auf Lizenz (z.B: MIT
+Readme sieht man gleich
